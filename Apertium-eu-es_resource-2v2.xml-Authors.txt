@@ -1,0 +1,18 @@
+Copying and Author information
+
+Resource name: Basque-Spanish LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17095
+Licence: GPL
+
+Authors:
+
+() Prompsit Language Engineering, S.L
+
+() Universitat d'Alacant. Grup Transducens
+
+() Euskal Herriko Unibertsitatea. IXA Taldea
+
+() Universitat Politècnica de Catalunya. TALP Research Center
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
